@@ -10,7 +10,7 @@
 - صفحه **پروژه‌های من**: کافی‌ست آی‌دی گیت‌هاب خودتون رو در فایل کانفیگ وارد کنید، سپس این سایت به‌صورت خودکار ریپوزیتوری‌های گیت‌هاب شما رو نمایش می‌ده. 📂
 
 ## اسکرین‌شات 📸
-![Screenshot](assets/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/AmirrezaKhezerlou/flutter_mini_portfolio/refs/heads/main/screenshot.png)
 
 ## لایسنس 🎉
 تو ایران این چیزا معنی نداره، هر طوری که دوست داری استفاده کن! اگر خواستی یه قهوه مهمونم کن ☕️  
